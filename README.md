@@ -3,6 +3,7 @@
 ## Preparation
 a) You must have an .csv file with expenses listed. Usually, you can download it from your online bank account (either in .csv format or in .pdf --> convert to .csv). See and example, below:
 ![](transactions_sample.png)
+
 b) You can access the file with the transactions in Google Sheets (upload it there) or add to the application/code root folder. If you decide to go with Google Sheets, you need to connect to it with Google API. 
 In doing so, please, follow the steps:
 - create a project in GCfDevelopers
@@ -13,4 +14,8 @@ In doing so, please, follow the steps:
 
 ## How it works in the end:
 
-![]()
+![](fin_dashboard.mp4)
+
+## What were applied: 
+Pandas, Numpy, Panel, HVPlot, Holoview
+
